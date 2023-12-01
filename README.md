@@ -1,5 +1,5 @@
 # Flame
-The Flame home dashboard
+The Flame dashboard.
 
 ```
 git clone https://github.com/homelab-docker/flame.git
