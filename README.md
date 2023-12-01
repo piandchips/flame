@@ -2,7 +2,7 @@
 The Flame home dashboard
 
 ```
-git clone
+git clone https://github.com/homelab-docker/flame.git
 ```
 
 ```
